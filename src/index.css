@@ -1,0 +1,25 @@
+@import "flowbite/dist/flowbite.css";
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: gray;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.latesthead {
+    font-size: xxx-large;
+    font-family: cursive;
+    margin-bottom: 50px;
+}
+.cardbhi{
+    width: 24rem;
+}
